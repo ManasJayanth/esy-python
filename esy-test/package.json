@@ -3,6 +3,6 @@
     "build": "hello"
   },
   "dependencies": {
-    "esy-hello": "*"
+    "esy-python": "*"
   }
 }
